@@ -12,14 +12,10 @@
     "-baker-background": "#000000",
     "-baker-vertical-bounce": true,
     "-baker-media-autoplay": true,
-    "-baker-background-image-portrait": "gfx/background-portrait.png",
-    "-baker-background-image-landscape": "gfx/background-landscape.png",
     "-baker-page-numbers-color": "#000000",
 
     "contents": [
-        "Book Cover.html",
-        "Book Index.html",
-        "Part1-01.html",
+        "index.html",
         "Part1-02.html",
         "Part1-03.html",
         "Part1-04.html",

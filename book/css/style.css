@@ -1,0 +1,12 @@
+body { 
+	padding-top: 60px; 
+	padding-bottom: 40px; 
+}
+
+blockquote p {
+	margin-bottom:12px;
+}
+
+.thumbnail.pull-right {
+	margin-left:10px;
+}
